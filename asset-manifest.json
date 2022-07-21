@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyCosts-app-React-/static/css/main.b6e850f3.css",
+    "main.js": "/MyCosts-app-React-/static/js/main.eafe6e3e.js",
+    "index.html": "/MyCosts-app-React-/index.html",
+    "main.b6e850f3.css.map": "/MyCosts-app-React-/static/css/main.b6e850f3.css.map",
+    "main.eafe6e3e.js.map": "/MyCosts-app-React-/static/js/main.eafe6e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e850f3.css",
+    "static/js/main.eafe6e3e.js"
+  ]
+}
